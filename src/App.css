@@ -6,6 +6,7 @@
 }
 .title-bar {
 		text-align: center;
+		background-color: #6164ec! important;
 }
 .primary-container {
 		flex: 2;
