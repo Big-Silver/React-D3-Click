@@ -2,8 +2,6 @@
 
 >generate data using an interactive graph
 
-Demo [here](http://www.sohamkamani.com/mr-data-generator/)
-
 To open development version :
 
 1. Clone the repo
