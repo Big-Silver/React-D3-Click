@@ -18,7 +18,6 @@ class App extends Component {
 							<MainChart/>
 							<Tooltip/>
 							<div className="instructions">Click anywhere on the chart to draw points. Right click on any point to remove it.
-								Zoom using mouse scroll.
 							</div>
 						</div>
 					</div>
