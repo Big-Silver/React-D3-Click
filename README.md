@@ -17,7 +17,7 @@ $ cd React-D3-Click
 # install npm.
 $ npm install
 
-# run tha app
+# run the app
 $ npm start
 
 ```
